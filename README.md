@@ -1,7 +1,5 @@
-<h1 align="center" dir="auto"><a id="user-content-hi--im-khuong-" class="anchor" aria-hidden="true" href="#hi--im-khuong-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><b>Hi , I'm  Khuong </b><animated-image data-catalyst="" style="width: 150px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" height="80" data-canonical-src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/58502bc6910820c71f8cd9f3a6640c7d5374b4f752d4fdc5c4e79bdbd4fe4726/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966" target="_blank">
-          </animated-image></h1>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
+<h1 align="center"><b>Hi , I'm Khuong </b><img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150' height="80"></h1>
+<p align="center">
+    <img width="500" src="https://i.imgur.com/uKfDhbj.jpg">
+</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Backend+Engineer)](https://git.io/typing-svg)
