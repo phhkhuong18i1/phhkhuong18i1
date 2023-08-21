@@ -2,4 +2,4 @@
 <p align="center">
     <img width="500" src="https://i.imgur.com/uKfDhbj.jpg">
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Backend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=21&center=true&vCenter=true&width=1200&height=90&lines=I'm+a+Backend+Engineer+passionate+about+creating+intuitive+and+engaging+user+experiences.)](https://github.com/DenverCoder1/readme-typing-svg)
